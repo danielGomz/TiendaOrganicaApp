@@ -5,7 +5,7 @@ package tiendaorganica.modelo;
  * Esta clase es abstracta y sirve como base para tipos específicos de productos
  * orgánicos.
  */
-abstract class ProductoOrganico {
+public abstract class ProductoOrganico {
 
     private String nombre;
     private String tipo;
